@@ -4,13 +4,13 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap demo</title>
+    <title>Data Mahasiswa/title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
 </head>
 
 <body>
-    {{-- ---------- Header ---------- --}}
+    {{------------- Header -------------}}
     <section id="header">
         <header>
             <div class="p-4">
@@ -18,7 +18,7 @@
             </div>
         </header>
     </section>
-    {{-- ---------- Content ---------- --}}
+    {{------------- Mentor -------------}}
     <section id="content" class="pb-1">
         <div id="content1" class="mx-auto" style="width: 1000px;">
             <div class="mx-auto p-4" style="width: 900px;">
@@ -52,7 +52,7 @@
             </div>
         </div>
     </section>
-
+    {{------------ Tabel Mahasiswa ------------}}
     <section>
         <div id="content2" class="mx-auto" style="width: 1000px;">
             <div class="mx-auto pt-5" style="width: 990px;">
